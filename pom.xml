@@ -240,8 +240,8 @@
 			</plugin>
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
-				<artifactId>exec-maven-plugin</artifactId>
-				<version>1.2</version>
+				<artifactId>sonar-maven-plugin</artifactId>
+				<version>2.6</version>
 				<executions>
 					<execution>
 						<id>startup-uber-start</id>
